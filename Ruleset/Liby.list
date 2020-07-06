@@ -291,7 +291,7 @@ DOMAIN,sdkauth.hpplay.cn
 # > Alibaba
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
-//DOMAIN,tunion-api.m.taobao.com
+DOMAIN,tunion-api.m.taobao.com
 IP-CIDR,112.29.211.120/32,no-resolve
 IP-CIDR,203.119.206.64/32,no-resolve
 IP-CIDR,203.119.211.219/32,no-resolve
