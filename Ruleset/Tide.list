@@ -193,11 +193,7 @@ URL-REGEX,^https?+:\/\/imeclient\.openspeech\.cn\/adservice\/
 URL-REGEX,^https?+:\/\/www\.bodivis\.com\.cn\/app\/splashAdvertise
 
 # J
-# > 京东
-//URL-REGEX,^https?+:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$
-//URL-REGEX,^https?+:\/\/b?dsp-x\.jd\.com\/adx\/
-//URL-REGEX,^https?+:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo
-//URL-REGEX,^https?+:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture
+#
 # > 界面新闻
 URL-REGEX,^https?+:\/\/img\.jiemian\.com\/ads\/
 # > 驾校一点通
